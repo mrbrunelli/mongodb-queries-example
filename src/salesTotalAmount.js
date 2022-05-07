@@ -1,4 +1,5 @@
 const { getClient } = require("./client");
+const fs = require("node:fs/promises");
 
 async function main() {
   const client = await getClient();
@@ -27,6 +28,11 @@ async function main() {
       },
     ])
     .toArray();
+
+  await fs.writeFile(
+    "outputs/salesTotalAmount.json",
+    JSON.stringify(result, null, 2)
+  );
 
   return result;
 }
