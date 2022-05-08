@@ -3,38 +3,70 @@
     "month": "2014-03",
     "total": 104.5,
     "items": [
-      "Antarctica Boa 350ml",
-      "Spaten Munich 350ml",
-      "Brahma Duplo Malte 350ml"
+      {
+        "item": "Antarctica Boa 350ml",
+        "price": 2.99,
+        "quantity": 9
+      },
+      {
+        "item": "Spaten Munich 350ml",
+        "price": 3.79,
+        "quantity": 11
+      },
+      {
+        "item": "Brahma Duplo Malte 350ml",
+        "price": 3.59,
+        "quantity": 10
+      }
     ]
   },
   {
     "month": "2014-04",
     "total": 171.39,
     "items": [
-      "Heineken 355ml",
-      "Eisenbahn Pilsen 355ml"
+      {
+        "item": "Heineken 355ml",
+        "price": 5.69,
+        "quantity": 21
+      },
+      {
+        "item": "Eisenbahn Pilsen 355ml",
+        "price": 5.19,
+        "quantity": 10
+      }
     ]
   },
   {
     "month": "2015-06",
     "total": 84.64,
     "items": [
-      "Eisenbahn Pale Ale 355ml"
+      {
+        "item": "Eisenbahn Pale Ale 355ml",
+        "price": 5.29,
+        "quantity": 16
+      }
     ]
   },
   {
     "month": "2015-09",
     "total": 153.6,
     "items": [
-      "Colorado Ribeirão Lager 600ml"
+      {
+        "item": "Colorado Ribeirão Lager 600ml",
+        "price": 12.8,
+        "quantity": 12
+      }
     ]
   },
   {
     "month": "2016-02",
     "total": 83.29,
     "items": [
-      "Baden Baden IPA Maracujá 600ml"
+      {
+        "item": "Baden Baden IPA Maracujá 600ml",
+        "price": 11.9,
+        "quantity": 7
+      }
     ]
   }
 ]

@@ -21,7 +21,11 @@ async function main() {
             },
           },
           items: {
-            $push: "$item",
+            $push: {
+              item: "$item",
+              price: "$price",
+              quantity: "$quantity",
+            },
           },
         },
       },
