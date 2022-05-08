@@ -1,0 +1,40 @@
+[
+  {
+    "month": "2014-03",
+    "total": 104.5,
+    "items": [
+      "Antarctica Boa 350ml",
+      "Spaten Munich 350ml",
+      "Brahma Duplo Malte 350ml"
+    ]
+  },
+  {
+    "month": "2014-04",
+    "total": 171.39,
+    "items": [
+      "Heineken 355ml",
+      "Eisenbahn Pilsen 355ml"
+    ]
+  },
+  {
+    "month": "2015-06",
+    "total": 84.64,
+    "items": [
+      "Eisenbahn Pale Ale 355ml"
+    ]
+  },
+  {
+    "month": "2015-09",
+    "total": 153.6,
+    "items": [
+      "Colorado Ribeirão Lager 600ml"
+    ]
+  },
+  {
+    "month": "2016-02",
+    "total": 83.29,
+    "items": [
+      "Baden Baden IPA Maracujá 600ml"
+    ]
+  }
+]

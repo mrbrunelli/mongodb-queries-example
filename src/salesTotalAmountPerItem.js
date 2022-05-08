@@ -30,7 +30,7 @@ async function main() {
     .toArray();
 
   await fs.writeFile(
-    "outputs/salesTotalAmount.json",
+    "outputs/salesTotalAmountPerItem.json",
     JSON.stringify(result, null, 2)
   );
 

@@ -1,11 +1,19 @@
 [
   {
-    "item": "Colorado Ribeirão Lager 600ml",
-    "total": 153.6
+    "item": "Spaten Munich 350ml",
+    "total": 41.68
   },
   {
     "item": "Eisenbahn Pale Ale 355ml",
     "total": 84.64
+  },
+  {
+    "item": "Baden Baden IPA Maracujá 600ml",
+    "total": 83.29
+  },
+  {
+    "item": "Colorado Ribeirão Lager 600ml",
+    "total": 153.6
   },
   {
     "item": "Brahma Duplo Malte 350ml",
@@ -16,16 +24,8 @@
     "total": 51.9
   },
   {
-    "item": "Baden Baden IPA Maracujá 600ml",
-    "total": 83.29
-  },
-  {
     "item": "Heineken 355ml",
     "total": 119.49
-  },
-  {
-    "item": "Spaten Munich 350ml",
-    "total": 41.68
   },
   {
     "item": "Antarctica Boa 350ml",
