@@ -98,6 +98,15 @@ async function main() {
       date: new Date("2016-02-06T20:20:13Z"),
     },
   ]);
+
+  await itemsCollection.createIndex(
+    {
+      item: 1,
+    },
+    {
+      unique: true,
+    }
+  );
 }
 
 main().finally(() => process.exit(1));
